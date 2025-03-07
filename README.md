@@ -1,21 +1,23 @@
-# 👋 Merhaba, Ben Mikail Güven
+# 👋 Hello, I'm Mikail Güven
 
-## 💻 Hakkımda
-Siber güvenlik analistiyim ve şu anda Python, JavaScript ve C++ ile projeler geliştiriyorum. Veri bilimi ve Yapay zeka konularına ilgi duyuyorum.
+## 💻 About me
+I am a cyber security analyst and currently developing projects with Python, JavaScript and C++. I am interested in data science and Artificial intelligence.
 
-## 🛠 Becerilerim
-- **Programlama Dilleri:** Python, JavaScript, C#,C++
-- **Veritabanları:** MySQL, MongoDB,SQLite
-- **Araçlar:** Git, Docker, AWS
+## 🛠 My Skills
+- **Programming Languages:** Python, JavaScript, C#, C++
+- Databases:** MySQL, MongoDB, SQLite
+- Tools:** Git, Docker, AWS
 
-## 📊 GitHub İstatistiklerim
+## 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=captainmgc&show_icons=true&theme=radical)
 
-## 📚 Projelerim
-- [Proje 1](https://github.com/kullaniciadi/proje1) - Proje açıklaması.
-- [Proje 2](https://github.com/kullaniciadi/proje2) - Proje açıklaması.
+## 📚 My Projects
+- [Project 1](https://github.com/kullaniciadi/proje1) - Project description.
+- [Project 2](https://github.com/kullaniciadi/proje2) - Project description.
 
-## 📬 İletişim
-- LinkedIn: [linkedin.com/in/yourprofile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/captainmc/))
-- E-posta: mikailsun21@gmail.com
+## 📬 Contact
+- LinkedIn: [My LinkedIn Profile] (https://www.linkedin.com/in/captainmc/)
+- E-mail: mikailsun21@gmail.com
 
+
+Translated with DeepL.com (free version)
