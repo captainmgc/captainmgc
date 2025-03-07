@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Mikail Güven
 
-<!--
-**captainmgc/captainmgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Hakkımda
+Siber güvenlik analistiyim ve şu anda Python, JavaScript ve C++ ile projeler geliştiriyorum. Veri bilimi ve Yapay zeka konularına ilgi duyuyorum.
 
-Here are some ideas to get you started:
+## 🛠 Becerilerim
+- **Programlama Dilleri:** Python, JavaScript, C#,C++
+- **Veritabanları:** MySQL, MongoDB,SQLite
+- **Araçlar:** Git, Docker, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub İstatistiklerim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=radical)
+
+## 📚 Projelerim
+- [Proje 1](https://github.com/kullaniciadi/proje1) - Proje açıklaması.
+- [Proje 2](https://github.com/kullaniciadi/proje2) - Proje açıklaması.
+
+## 📬 İletişim
+- LinkedIn: [linkedin.com/in/yourprofile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/captainmc/))
+- E-posta: mikailsun21@gmail.com
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=radical)
