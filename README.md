@@ -12,7 +12,7 @@ I am a cyber security analyst and currently developing projects with Python, Jav
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=captainmgc&show_icons=true&theme=radical)
 
 ## 📚 My Projects
-- [Project 1](https://github.com/kullaniciadi/proje1) - Project description.
+- [Project 1](https://github.com/captainmgc/openterminalhere) - Adds an 'Open Terminal Here' option to the Windows right-click menu.
 - [Project 2](https://github.com/kullaniciadi/proje2) - Project description.
 
 ## 📬 Contact
