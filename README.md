@@ -13,11 +13,11 @@ I am a cyber security analyst and currently developing projects with Python, Jav
 
 ## 📚 My Projects
 - [Open Terminal Here](https://github.com/captainmgc/openterminalhere) - Adds an 'Open Terminal Here' option to the Windows right-click menu.
-- [Project 2](https://github.com/kullaniciadi/proje2) - Project description.
+- [KeyLock Notifier](https://github.com/captainmgc/key-lock-notifier) - A lightweight and customizable Windows app that shows on-screen notifications for Caps Lock, Num Lock, and Scroll Lock changes, running in the system tray.
 
 ## 📬 Contact
 - LinkedIn: [My LinkedIn Profile] (https://www.linkedin.com/in/captainmc/)
 - E-mail: mikailsun21@gmail.com
 
 
-Translated with DeepL.com (free version)
+
