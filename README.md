@@ -16,7 +16,7 @@ I am a cyber security analyst and currently developing projects with Python, Jav
 - [KeyLock Notifier](https://github.com/captainmgc/key-lock-notifier) - A lightweight and customizable Windows app that shows on-screen notifications for Caps Lock, Num Lock, and Scroll Lock changes, running in the system tray.
 
 ## 📬 Contact
-- LinkedIn: [My LinkedIn Profile] (https://www.linkedin.com/in/captainmc/)
+- LinkedIn:(https://www.linkedin.com/in/captainmc/)
 - E-mail: mikailsun21@gmail.com
 
 
