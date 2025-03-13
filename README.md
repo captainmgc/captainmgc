@@ -4,7 +4,7 @@
 I am a cyber security analyst and currently developing projects with Python, JavaScript and C++. I am interested in data science and Artificial intelligence.
 
 ## 🛠 My Skills
-- **Programming Languages: Python, JavaScript, C#, C++
+- Programming Languages: Python, JavaScript, C#, C++
 - Databases: MySQL, MongoDB, SQLite
 - Tools: Git, Docker, AWS
 
