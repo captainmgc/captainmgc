@@ -14,6 +14,7 @@ I am a cyber security analyst and currently developing projects with Python, Jav
 ## 📚 My Projects
 - [Open Terminal Here](https://github.com/captainmgc/openterminalhere) - Adds an 'Open Terminal Here' option to the Windows right-click menu.
 - [KeyLock Notifier](https://github.com/captainmgc/key-lock-notifier) - A lightweight and customizable Windows app that shows on-screen notifications for Caps Lock, Num Lock, and Scroll Lock changes, running in the system tray.
+- [Video Enhancement Suite](https://github.com/captainmgc/video-enhancement-suite) - A Chrome extension to enhance video playback with brightness, contrast, saturation, and volume controls.  
 
 ## 📬 Contact
 - LinkedIn: https://www.linkedin.com/in/captainmc/
