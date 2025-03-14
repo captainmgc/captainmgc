@@ -18,6 +18,7 @@ I am a cyber security analyst and currently developing projects with Python, Jav
 - [KeyLock Notifier](https://github.com/captainmgc/key-lock-notifier) - A lightweight and customizable Windows app that shows on-screen notifications for Caps Lock, Num Lock, and Scroll Lock changes, running in the system tray.
 - [Video Enhancement Suite](https://github.com/captainmgc/video-enhancement-suite) - A Chrome extension to enhance video playback with brightness, contrast, saturation, and volume controls.
 - [Modern Proxy Checker](https://github.com/captainmgc/modern-proxy-checker) - A fast and efficient proxy checker with modern features for testing proxy validity and performance.
+- [StegoCrypt](https://github.com/captainmgc/StegoCrypt) - A steganography tool that hides encrypted data inside images for secure communication.  
 
 ## 📬 Contact
 - LinkedIn: https://www.linkedin.com/in/captainmc/
