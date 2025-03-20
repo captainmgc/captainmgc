@@ -21,6 +21,7 @@ I am a cyber security analyst and currently developing projects with Python, Jav
 - [StegoCrypt](https://github.com/captainmgc/StegoCrypt) - A steganography tool that hides encrypted data inside images for secure communication.
 - [TorIP Changer PRO](https://github.com/captainmgc/TorIP-Changer-PRO) - A tool for automatically changing Tor exit nodes to enhance anonymity and bypass restrictions.
 - [Cyber-Mailler](https://github.com/captainmgc/CyberMailler) - A powerful mail server testing tool to verify email server configurations and test email delivery capabilities.
+- [CyberScan](https://github.com/captainmgc/CyberScan) - A modern Python-based security assessment and information gathering tool with multiple scanning features.
 
 ## 📬 Contact
 - LinkedIn: https://www.linkedin.com/in/captainmc/
