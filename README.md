@@ -1,63 +1,76 @@
-# 👋 Hi there, I'm **Mikail Güven Çiçek**
-
-🎯 *Cyber Security Enthusiast | Developer | Problem Solver*
-
+# 🛡️ Hi there, I'm **Mikail Güven Çiçek**
+⚡ *Penetration Tester | Network Security Specialist | Cyber Warrior*
 ---
-
-## 💡 About Me
-
-I’m a passionate **Cyber Security Analyst** currently focusing on building modern, security-oriented tools using **Python**, **JavaScript**, and **C++**.  
-My interests span across **Data Science**, **AI/ML**, and **Information Security**.  
-I love turning complex challenges into practical and user-friendly tools.
-
+## 🎯 About Me
+I'm a **Penetration Tester** currently working in the cybersecurity field, specializing in **network security**, **vulnerability assessments**, and **ethical hacking**.  
+My expertise spans across **Red Team Operations**, **Network Penetration Testing**, and **Security Tool Development**.  
+I transform complex security vulnerabilities into actionable intelligence and build cutting-edge tools for the cybersecurity community.
 ---
-
-## 🛠️ Tech Stack & Skills
-
-- **Languages**: Python, JavaScript, C#, C++
-- **Databases**: MySQL, MongoDB, SQLite
-- **DevOps / Tools**: Git, Docker, AWS, Linux
-- **Cybersecurity**: OSINT, Network Scanning, Steganography, Anonymity Tools
-
+## 🔐 Cybersecurity Arsenal & Skills
+- **Languages**: Python, JavaScript, C#, C++, Bash
+- **Databases**: MySQL, MongoDB, SQLite, Redis
+- **Infrastructure**: AWS, Docker, Linux, Kali Linux, Parrot OS
+- **Network Security**: Nmap, Wireshark, Metasploit, Burp Suite, Nessus
+- **Penetration Testing**: OWASP Top 10, Web App Security, Network Scanning
+- **Red Team Tools**: Cobalt Strike, Empire, BloodHound, Mimikatz
+- **OSINT & Reconnaissance**: Shodan, Maltego, theHarvester, Recon-ng
 ---
+## 🚨 Featured Security Projects
+Here are some of my cybersecurity tools and projects:
 
-## 🚀 Featured Projects
+| Project | Classification | Description |
+|--------|---------------|-------------|
+| 🔍 [**SubScanx**](https://github.com/captainmgc/SubScanX) | Reconnaissance | Advanced subdomain enumeration using Certificate Transparency logs |
+| 🛡️ [**CyberScan**](https://github.com/captainmgc/CyberScan) | Network Scanner | Comprehensive network reconnaissance and vulnerability scanner |
+| 🖼️ [**StegoCrypt**](https://github.com/captainmgc/StegoCrypt) | Steganography | Military-grade steganography tool for covert data transmission |
+| 🧅 [**TorIP Changer PRO**](https://github.com/captainmgc/TorIP-Changer-PRO) | Anonymity | Advanced Tor circuit manipulation for enhanced OPSEC |
+| ✉️ [**Cyber-Mailler**](https://github.com/captainmgc/CyberMailler) | Social Engineering | Email infrastructure testing and phishing simulation |
+| 🌐 [**Modern Proxy Checker**](https://github.com/captainmgc/modern-proxy-checker) | Network Security | High-performance proxy validation and anonymity testing |
+| 🖥️ [**Open Terminal Here**](https://github.com/captainmgc/openterminalhere) | System Tool | Windows context menu enhancement for rapid terminal access |
+| 🔔 [**KeyLock Notifier**](https://github.com/captainmgc/key-lock-notifier) | Utility | Real-time keystroke monitoring and notification system |
+| 🎥 [**Video Enhancement Suite**](https://github.com/captainmgc/video-enhancement-suite) | Browser Security | Chrome extension with advanced media manipulation capabilities |
 
-Here are some of the projects that reflect my skills and interests:
-
-| Project | Description |
-|--------|-------------|
-| 🔍 [**SubScanx**](https://github.com/captainmgc/SubScanX) | PyQt5-based tool that discovers hidden subdomains using Certificate Transparency logs. |
-| 🖥️ [**Open Terminal Here**](https://github.com/captainmgc/openterminalhere) | Adds an "Open Terminal Here" option to the Windows right-click context menu. |
-| 🔔 [**KeyLock Notifier**](https://github.com/captainmgc/key-lock-notifier) | Windows app showing real-time on-screen indicators for Caps/Num/Scroll Lock keys. |
-| 🎥 [**Video Enhancement Suite**](https://github.com/captainmgc/video-enhancement-suite) | Chrome extension to tweak brightness, contrast, and volume of online videos. |
-| 🌐 [**Modern Proxy Checker**](https://github.com/captainmgc/modern-proxy-checker) | A sleek and fast proxy validator with modern UI and performance metrics. |
-| 🖼️ [**StegoCrypt**](https://github.com/captainmgc/StegoCrypt) | A secure steganography tool to hide encrypted data inside images. |
-| 🧅 [**TorIP Changer PRO**](https://github.com/captainmgc/TorIP-Changer-PRO) | Auto-rotate Tor exit nodes to boost anonymity and bypass censorship. |
-| ✉️ [**Cyber-Mailler**](https://github.com/captainmgc/CyberMailler) | Mail server testing tool to validate email delivery and configuration. |
-| 🛡️ [**CyberScan**](https://github.com/captainmgc/CyberScan) | Python-based reconnaissance tool for network scanning and info gathering. |
-
-➡️ Explore more on my [GitHub Profile](https://github.com/captainmgc)
-
+➡️ **Explore the full arsenal on my** [GitHub Profile](https://github.com/captainmgc)
 ---
-
-## 📊 GitHub Stats
-
+## 🎖️ Certifications & Expertise
+- 🔴 **Red Team Operations** - Advanced persistent threats and lateral movement
+- 🌐 **Network Penetration Testing** - Infrastructure security assessments
+- 🕷️ **Web Application Security** - OWASP methodologies and exploit development
+- 🔍 **OSINT & Reconnaissance** - Intelligence gathering and target profiling
+- 🛡️ **Vulnerability Research** - Zero-day discovery and responsible disclosure
+---
+## 📊 Cyber Stats Dashboard
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=captainmgc&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainmgc&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=captainmgc&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainmgc&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=ffffff" height="160"/>
 </div>
 
+```
+┌─[captainmgc@kali]─[~]
+└──╼ $ whoami && id
+penetration-tester
+uid=1337(captainmgc) gid=1337(hackers) groups=1337(hackers),27(sudo),108(lpadmin)
+```
 ---
-
-## 📬 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/captainmc/)
-- 📧 mikailsun21@gmail.com
-- 🌍 [Hacktorx](https://hacktorx.com/) — where I share cybersecurity insights and write-ups
+## 🌐 Secure Communications
+- 🔗 [LinkedIn](https://www.linkedin.com/in/captainmc/) - Professional Network
+- 📧 mikailsun21@gmail.com - Encrypted communications welcome
+- 🌍 [Hacktorx](https://hacktorx.com/) - Cybersecurity research and write-ups
+- 🐦 Follow my security research and CTF solutions
+---
+## 🎯 Current Focus Areas
+- **Advanced Persistent Threat (APT) Simulation**
+- **Cloud Security & Container Penetration Testing**
+- **AI-Powered Security Tool Development**
+- **Zero-Trust Network Architecture Assessment**
+- **Mobile Application Security Testing**
+---
+> *"In the world of cyber warfare, the best defense is a good offense."*  
+> *"Think like an attacker, defend like a guardian."* 🛡️⚔️
 
 ---
-
-> _“The quieter you become, the more you are able to hear.”_ – Rumi  
-> _Learning never stops — especially in cybersecurity._
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Security-First-red?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Active%20Pentester-green?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat%20Level-Midnight-blue?style=for-the-badge&logo=moon&logoColor=white"/>
+</div>
