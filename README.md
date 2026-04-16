@@ -1,5 +1,3 @@
-# Mikail Güven Çiçek
----
 ## Hakkımda
 
 Siber güvenlik alanına ilgi duyan ve bu alanda kendini geliştirmeye çalışan biriyim. Özellikle ağ güvenliği, zafiyet analizi ve etik hacking konularını öğreniyorum.
@@ -17,8 +15,6 @@ Siber güvenlik alanına ilgi duyan ve bu alanda kendini geliştirmeye çalışa
 | [Open Terminal Here](https://github.com/captainmgc/openterminalhere) | Sistem Aracı | Windows için hızlı terminal erişimi bağlam menüsü |
 | [KeyLock Notifier](https://github.com/captainmgc/key-lock-notifier) | Yardımcı Program | Gerçek zamanlı tuş kilidi izleme ve bildirim sistemi |
 | [Video Enhancement Suite](https://github.com/captainmgc/video-enhancement-suite) | Tarayıcı Güvenliği | Gelişmiş medya işleme yeteneklerine sahip Chrome uzantısı |
-
-Tüm projeleri görmek için [GitHub profilimi](https://github.com/captainmgc) ziyaret edebilirsiniz.
 
 ```
 ┌─[captainmgc@kali]─[~]
