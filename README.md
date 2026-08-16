@@ -226,22 +226,6 @@ TELECOMMUNICATION
 
 ---
 
-## Kariyer Hedefi
-
-**System & Network Engineering**
-
-Öncelikli uzmanlaşma alanları:
-
-1. Network Engineering
-2. System Administration
-3. Network Security
-4. IT Infrastructure
-5. Server Systems
-6. Corporate Network Operations
-7. Network Monitoring & Troubleshooting
-8. Virtualization & Cloud Infrastructure
-9. Telecommunications & VoIP
-
 ---
 
 <div align="center">
